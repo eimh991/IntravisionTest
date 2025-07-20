@@ -1,0 +1,6 @@
+@IntravisionTest_HostAddress = http://localhost:5186
+
+GET {{IntravisionTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
